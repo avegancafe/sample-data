@@ -1,0 +1,29 @@
+[
+  {
+    "NAME": "Brookfield Place",
+    "ADDRESS": "230 Vesey St, New York, NY 10281",
+    "LATITUDE": 40.712829,
+    "LONGITUDE": -74.016087,
+    "TIMESTAMP": "2011-05-23",
+    "AVERAGE_RENT": "3622",
+    "COMPANIES": 12
+  },
+  {
+    "NAME": "Empire State Building",
+    "ADDRESS": "20 W 34th St, New York, NY 10001",
+    "LATITUDE": 40.748810,
+    "LONGITUDE": -73.985480,
+    "TIMESTAMP": "2018-07-02",
+    "AVERAGE_RENT": "8405",
+    "COMPANIES": 46
+  },
+  {
+    "NAME": "Bank of America Tower",
+    "ADDRESS": "1 Bryant Park, New York, NY 10036",
+    "LATITUDE": 40.755127,
+    "LONGITUDE": -73.984739,
+    "TIMESTAMP": "2016-12-11",
+    "AVERAGE_RENT": "6132",
+    "COMPANIES": 2
+  }
+]

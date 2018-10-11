@@ -1,0 +1,14 @@
+{
+  "name": "sample-data",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "ssh://git@github.com/kyleholzinger/sample-data",
+  "author": "Kyle Holzinger <kylelholzinger@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

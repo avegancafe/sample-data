@@ -7,6 +7,7 @@ app.get('/sample-data.json', (req, res) => {
   res.json(sampleData)
 });
 
-app.listen(80, () => {
-  console.log('listening on port 80...')
+const port = process.env.PORT || 3000
+app.listen(port, () => {
+  console.log(`listening on port ${port}...`)
 })
